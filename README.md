@@ -24,7 +24,7 @@ Que venham mais PRs, issues interessantes e noites virando com café e terminal 
 E como forma simbólica de comemorar esse feito histórico, deixo com vocês um verdadeiro hino pra celebrar o sucesso — do jeitinho que o GitHub merecia.
 
 Clique e aprecie com sabedoria:
-https://www.bing.com/ck/a?!&&p=3cfd93eff8c8278b6a5b54f3a1cc84fcfd0598b44733d02100725ec5322d9921JmltdHM9MTc1OTg4MTYwMA&ptn=3&ver=2&hsh=4&fclid=20bdaa92-d414-63c5-0cd7-bcedd521624e&psq=money+spread+ken&u=a1aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1iWUlPRG5LR05kZw
+https://youtu.be/XDocuspdgVk?si=7i6nqdh3hV5YhKBS
 
 Rumo aos próximos commits. Rumo aos 100.
 Tamo junto, devs! 💻🔥
